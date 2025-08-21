@@ -49,3 +49,7 @@ JavaScript (ES6) for game mechanics & animations.
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify.
+
+---
+
+🧑‍💻 Author Made with (◕‿◕) by Akash
