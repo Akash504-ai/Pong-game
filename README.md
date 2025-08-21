@@ -5,6 +5,10 @@ One player is controlled by the **mouse**, while the other paddle is an **AI opp
 
 ---
 
+🔗 **Live Demo:** [Play Here](https://pong-game-one-livid.vercel.app)
+
+---
+
 ## 🚀 Features
 - 🖱️ **Mouse-controlled paddle** for the player.  
 - 🤖 **AI-controlled paddle** for the opponent.  
@@ -53,7 +57,3 @@ This project is licensed under the MIT License – feel free to use and modify.
 ---
 
 🧑‍💻 Author Made with (◕‿◕) by Akash
-
----
-
-Live link pong-game-one-livid.vercel.app
