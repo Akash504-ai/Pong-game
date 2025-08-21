@@ -53,3 +53,7 @@ This project is licensed under the MIT License – feel free to use and modify.
 ---
 
 🧑‍💻 Author Made with (◕‿◕) by Akash
+
+---
+
+Live link pong-game-one-livid.vercel.app
